@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+<section class="psalm">
+    <div class="psalm-header">
+        <div class="previous-psalm">
+        {% if page.previous %}
+            <a href="/psalm/{{page.previous}}">Psalm {{page.previous}}</a>
+        {% endif %}
+        </div>
+    <h2 class="psalm-title">Psalm {{ page.psalm }}</h2>
+        <div class="next-psalm">
+            {% if page.next %}
+                <a href="/psalm/{{page.next}}">Psalm {{page.next}}</a>
+            {% endif %}
+        </div>
+    </div>
+
+    <section class="psalm-text">
+        {{ content }}
+    </section>
+</section>

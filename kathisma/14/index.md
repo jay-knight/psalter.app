@@ -1,5 +1,6 @@
 ---
 title: Kathisma 14
+layout: kathisma
 ---
 # Kathisma 14
 

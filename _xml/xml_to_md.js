@@ -12,8 +12,15 @@ for (chapter=1; chapter<=151; chapter++) {
     let fd = fs.openSync(`../psalm/${chapter}/index.md`, 'w+')
     fs.writeSync(fd, "---\n")
     fs.writeSync(fd, `title: Psalm ${chapter}\n`)
+    fs.writeSync(fd, `psalm: ${chapter}\n`)
+    if (chapter > 0) {
+        fs.writeSync(fd, `previous: ${chapter - 1}\n`)
+    }
+    if (chapter < 151) {
+        fs.writeSync(fd, `next: ${chapter + 1}\n`)
+    }
+    fs.writeSync(fd, `layout: psalm\n`)
     fs.writeSync(fd, "---\n")
-    fs.writeSync(fd, `# Psalm ${chapter}\n\n`)
 }
 
 // create all kathisma files and write the front matter
@@ -22,6 +29,7 @@ for (kathisma=1; kathisma<=20; kathisma++) {
     let fd = fs.openSync(`../kathisma/${kathisma}/index.md`, 'w+')
     fs.writeSync(fd, "---\n")
     fs.writeSync(fd, `title: Kathisma ${kathisma}\n`)
+    fs.writeSync(fd, `layout: kathisma\n`)
     fs.writeSync(fd, "---\n")
     fs.writeSync(fd, `# Kathisma ${kathisma}\n\n`)
     fs.writeSync(fd, `Coming Soon`)
@@ -32,6 +40,6 @@ fs.readFile(filename, "utf-8", function (err,data) {
 
     psalter.querySelectorAll("v").forEach((verse) => {
         chapter = verse.getAttribute("c")
-        fs.appendFileSync(`../psalm/${chapter}/index.md`, `<sup>${verse.getAttribute("v")}</sup> ${verse.textContent}`)
+        fs.appendFileSync(`../psalm/${chapter}/index.md`, `<div class="psalm-verse"><sup class="verse-number">${verse.getAttribute("v")}</sup> ${verse.textContent}</div>`)
     })
 });

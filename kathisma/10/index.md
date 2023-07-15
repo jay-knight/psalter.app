@@ -1,5 +1,6 @@
 ---
 title: Kathisma 10
+layout: kathisma
 ---
 # Kathisma 10
 
