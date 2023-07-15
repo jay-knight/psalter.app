@@ -1,0 +1,6 @@
+---
+title: Psalm 2
+---
+# Psalm 2
+
+<sup>1</sup> Wherefore did the heathen rage, and the nations imagine vain things? <sup>2</sup> The kings of the earth stood up, and the rulers gathered themselves together, against the Lord, and against his Christ; <sup>3</sup> saying, Let us break through their bonds, and cast away their yoke from us. <sup>4</sup> He that dwells in the heavens shall laugh them to scorn, and the Lord shall mock them. <sup>5</sup> Then shall he speak to them in his anger, and trouble them in his fury. <sup>6</sup> But I have been made king by him on Sion his holy mountain, <sup>7</sup> declaring the ordinance of the Lord: the Lord said to me, Thou art my Son, to-day have I begotten thee. <sup>8</sup> Ask of me, and I will give thee the heathen for thine inheritance, and the ends of the earth for thy possession. <sup>9</sup> Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel. <sup>10</sup> Now therefore understand, ye kings: be instructed, all ye that judge the earth. <sup>11</sup> Serve the Lord with fear, and rejoice in him with trembling. <sup>12</sup> Accept correction, lest at any time the Lord be angry, and ye should perish from the righteous way: whensoever his wrath shall be suddenly kindled, blessed are all they that trust in him. 

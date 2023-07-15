@@ -1,0 +1,6 @@
+---
+title: Psalm 57
+---
+# Psalm 57
+
+<sup>1</sup> For the end. Destroy not: by David, for a memorial. <sup>2</sup> If ye do indeed speak righteousness, then do ye judge rightly, ye sons of men. <sup>3</sup> For ye work iniquities in your hearts in the earth: your hands plot unrighteousness. <sup>4</sup> Sinners have gone astray from the womb: they go astray from the belly: they speak lies. <sup>5</sup> Their venom is like that of a serpent; as that of a deaf asp, and that stops her ears; <sup>6</sup> which will not hear the voice of charmers, nor heed the charm prepared skilfully by the wise. <sup>7</sup> God has crushed their teeth in their mouth: God has broken the cheek-teeth of the lions. <sup>8</sup> They shall utterly pass away like water running through: he shall bend his bow till they shall fail. <sup>9</sup> They shall be destroyed as melted wax: the fire has fallen and they have not seen the sun. <sup>10</sup> Before your thorns feel the white thorn, he shall swallow you up as living, as in his wrath. <sup>11</sup> The righteous shall rejoice when he sees the vengeance of the ungodly: he shall wash his hands in the blood of the sinner. <sup>12</sup> And a man shall say, Verily then there is a reward for the righteous: verily there is a God that judges them in the earth. 

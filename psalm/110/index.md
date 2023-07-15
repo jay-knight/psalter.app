@@ -1,0 +1,6 @@
+---
+title: Psalm 110
+---
+# Psalm 110
+
+<sup>1</sup> Alleluia. I will give thee thanks, O Lord, with my whole heart, in the council of the upright, and in the congregation. <sup>2</sup> The works of the Lord are great, sought out according to all his will. <sup>3</sup> His work is worthy of thanksgiving and honour: and his righteousness endures for ever and ever. <sup>4</sup> He has caused his wonderful works to be remembered: the Lord is merciful and compassionate. <sup>5</sup> He has given food to them that fear him: he will remember his covenant for ever. <sup>6</sup> He has declared to his people the power of his works, to give them the inheritance of the heathen. <sup>7</sup> The works of his hands are truth and judgment: all his commandments are sure: <sup>8</sup> established for ever and ever, done in truth and uprightness. <sup>9</sup> He sent redemption to his people: he commanded his covenant for ever: holy and fearful is his name. <sup>10</sup> The fear of the Lord is the beginning of wisdom, and all that act accordingly have a good understanding; his praise endures for ever and ever. 

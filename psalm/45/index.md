@@ -1,0 +1,6 @@
+---
+title: Psalm 45
+---
+# Psalm 45
+
+<sup>1</sup> For the end, for the sons of Core; a Psalm concerning secret things. <sup>2</sup> God is our refuge and strength, a help in the afflictions that have come heavily upon us. <sup>3</sup> Therefore will we not fear when the earth is troubled, and the mountains are removed into the depths of the seas. <sup>4</sup> Their waters have roared and been troubled, the mountains have been troubled by his might. Pause. <sup>5</sup> The flowings of the river gladden the city of God: the Most High has sanctified his tabernacle. <sup>6</sup> God is in the midst of her; she shall not be moved: God shall help her with his countenance. <sup>7</sup> The nations were troubled, the kingdoms tottered: he uttered his voice, the earth shook. <sup>8</sup> The Lord of hosts is with us; the God of Jacob is our helper. Pause. <sup>9</sup> Come, and behold the works of the Lord, what wonders he has achieved on the earth. <sup>10</sup> Putting an end to wars as for the ends of the earth; he will crush the bow, and break in pieces the weapon, and burn the bucklers with fire. <sup>11</sup> Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth. <sup>12</sup> The Lord of hosts is with us; the God of Jacob is our helper. 

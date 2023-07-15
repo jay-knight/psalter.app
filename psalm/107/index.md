@@ -1,0 +1,6 @@
+---
+title: Psalm 107
+---
+# Psalm 107
+
+<sup>1</sup> Song of a Psalm by David. <sup>2</sup> O God, my heart is ready, my heart is ready; I will sing and sing psalms with my glory. <sup>3</sup> Awake, psaltery and harp; I will awake early. <sup>4</sup> I will give thanks to thee, O Lord, among the people; I will sing praise to thee among the Gentiles. <sup>5</sup> For thy mercy is great above the heavens, and thy truth reaches to the clouds. <sup>6</sup> Be thou exalted, O God, above the heavens; and thy glory above all the earth. <sup>7</sup> That thy beloved ones may be delivered, save with thy right hand, and hear me. God has spoken in his sanctuary; <sup>8</sup> I will be exalted, and will divide Sicima, and will measure out the valley of tents. <sup>9</sup> Galaad is mine; and Manasses is mine; and Ephraim is the help of mine head; Judas is my king; <sup>10</sup> Moab is the caldron of my hope; over Idumea will I cast my sandal; the Philistines are made subject to me. <sup>11</sup> Who will bring me into the fortified city? or who will guide me to Idumea? <sup>12</sup> Wilt not thou, O God, who hast rejected us? and wilt not thou, O God, go forth with our hosts? <sup>13</sup> Give us help from tribulation: for vain is the help of man. <sup>14</sup> Through God we shall do valiantly; and he will bring to nought our enemies. 

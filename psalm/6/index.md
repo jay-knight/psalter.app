@@ -1,0 +1,6 @@
+---
+title: Psalm 6
+---
+# Psalm 6
+
+<sup>1</sup> For the end, a Psalm of David among the Hymns for the eighth. <sup>2</sup> O Lord, rebuke me not in thy wrath, neither chasten me in thine anger. <sup>3</sup> Pity me, O Lord; for I am weak: heal me, O Lord; for my bones are vexed. <sup>4</sup> My soul also is grievously vexed: but thou, O Lord, how long? <sup>5</sup> Return, O Lord, deliver my soul: save me for thy mercy's sake. <sup>6</sup> For in death no man remembers thee: and who will give thee thanks in Hades? <sup>7</sup> I am wearied with my groaning; I shall wash my bed every night; I shall water my couch with my tears. <sup>8</sup> Mine eye is troubled because of my wrath; I am worn out because of all my enemies. <sup>9</sup> Depart from me, all ye that work iniquity; for the Lord has heard the voice of my weeping. <sup>10</sup> The Lord has hearkened to my petition; the Lord has accepted my prayer. <sup>11</sup> Let all mine enemies be put to shame and sore troubled: let them be turned back and grievously put to shame speedily. 

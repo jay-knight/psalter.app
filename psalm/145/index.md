@@ -1,0 +1,6 @@
+---
+title: Psalm 145
+---
+# Psalm 145
+
+<sup>1</sup> Alleluia, a Psalm of Aggæus and Zacharias. My soul, praise the Lord. <sup>2</sup> While I live will I praise the Lord: I will sing praises to my God as long as I exist. <sup>3</sup> Trust not in princes, nor in the children of men, in whom there is no safety. <sup>4</sup> His breath shall go forth, and he shall return to his earth; in that day all his thoughts shall perish. <sup>5</sup> Blessed is he whose helper is the God of Jacob, whose hope is in the Lord his God: <sup>6</sup> who made heaven, and earth, the sea, and all things in them: who keeps truth for ever: <sup>7</sup> who executes judgment for the wronged: who gives food to the hungry. The Lord looses the fettered ones: <sup>8</sup> the Lord gives wisdom to the blind: The Lord sets up the broken down: the Lord loves the righteous: the Lord preserves the strangers; <sup>9</sup> he will relieve the orphan and widow: but will utterly remove the way of sinners. <sup>10</sup> The Lord shall reign for ever, even thy God, O Sion, to all generations. 

@@ -1,0 +1,6 @@
+---
+title: Psalm 96
+---
+# Psalm 96
+
+<sup>1</sup> For David, when his land is established. The Lord reigns, let the earth exult, let many islands rejoice. <sup>2</sup> Cloud and darkness are round about him; righteousness and judgment are the establishment of his throne. <sup>3</sup> Fire shall go before him, and burn up his enemies round about. <sup>4</sup> His lightnings appeared to the world; the earth saw, and trembled. <sup>5</sup> The mountains melted like wax at the presence of the Lord, at the presence of the Lord of the whole earth. <sup>6</sup> The heavens have declared his righteousness, and all the people have seen his glory. <sup>7</sup> Let all that worship graven images be ashamed, who boast of their idols; worship him, all ye his angels. <sup>8</sup> Sion heard and rejoiced; and the daughters of Judea exulted, because of thy judgments, O Lord. <sup>9</sup> For thou art Lord most high over all the earth; thou art greatly exalted above all gods. <sup>10</sup> Ye that love the Lord, hate evil; the Lord preserves the souls of his saints; he shall deliver them from the hand of sinners. <sup>11</sup> Light is sprung up for the righteous, and gladness for the upright in heart. <sup>12</sup> Rejoice in the Lord, ye righteous; and give thanks for a remembrance of his holiness. 

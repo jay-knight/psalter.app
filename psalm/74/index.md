@@ -1,0 +1,6 @@
+---
+title: Psalm 74
+---
+# Psalm 74
+
+<sup>1</sup> For the end, Destroy not, a Psalm of a Song for Asaph. <sup>2</sup> We will give thanks to thee, O God, we will give thanks, and call upon thy name: I will declare all thy wonderful works. <sup>3</sup> When I shall take a set time, I will judge righteously. <sup>4</sup> The earth is dissolved, and all that dwell in it: I have strengthened its pillars. Pause. <sup>5</sup> I said unto the transgressors, Do not transgress; and to the sinners, Lift not up the horn. <sup>6</sup> Lift not up your horn on high; speak not unrighteousness against God. <sup>7</sup> For good comes neither from the east, nor from the west, nor from the desert mountains. <sup>8</sup> For God is the judge; he puts down one, and raises up another. <sup>9</sup> For there is a cup in the hand of the Lord, full of unmingled wine; and he has turned it from side to side, but its dregs have not been wholly poured out; all the sinners of the earth shall drink them. <sup>10</sup> But I will exult for ever: I will sing praises to the God of Jacob. <sup>11</sup> And I will break all the horns of sinners; but the horns of the righteous one shall be exalted. 

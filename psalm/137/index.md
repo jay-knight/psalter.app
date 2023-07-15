@@ -1,0 +1,6 @@
+---
+title: Psalm 137
+---
+# Psalm 137
+
+<sup>1</sup> A Psalm for David, of Aggæus and Zacharias. I will give thee thanks, O Lord, with my whole heart; and I will sing psalms to thee before the angels; for thou hast heard all the words of my mouth. <sup>2</sup> I will worship toward thy holy temple, and give thanks to thy name, on account of thy mercy and thy truth; for thou hast magnified thy holy name above every thing. <sup>3</sup> In whatsoever day I shall call upon thee, hear me speedily; thou shalt abundantly provide me with thy power in my soul. <sup>4</sup> Let all the kings of the earth, O Lord, give thanks unto thee; for they have heard all the words of thy mouth. <sup>5</sup> And let them sing in the ways of the Lord; for great is the glory of the Lord. <sup>6</sup> For the Lord is high, and yet regards the lowly; and he knows high things from afar off. <sup>7</sup> Though I should walk in the midst of affliction, thou wilt quicken me; thou hast stretched forth thine hands against the wrath of mine enemies, and thy right hand has saved me. <sup>8</sup> O Lord, thou shalt recompense them on my behalf: thy mercy, O Lord, endures for ever: overlook not the works of thine hands. 

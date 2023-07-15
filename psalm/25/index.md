@@ -1,0 +1,6 @@
+---
+title: Psalm 25
+---
+# Psalm 25
+
+<sup>1</sup> A Psalm of David. Judge me, O Lord; for I have walked in my innocence: and hoping in the Lord I shall not be moved. <sup>2</sup> Prove me, O Lord, and try me; purify as with fire my reins and my heart. <sup>3</sup> For thy mercy is before mine eyes: and I am well pleased with thy truth. <sup>4</sup> I have not sat with the council of vanity, and will in nowise enter in with transgressors. <sup>5</sup> I have hated the assembly of wicked doers; and will not sit with ungodly men. <sup>6</sup> I will wash my hands in innocency, and compass thine altar, O Lord: <sup>7</sup> to hear the voice of praise, and to declare all thy wonderful works. <sup>8</sup> O Lord, I have loved the beauty of thy house, and the place of the tabernacle of thy glory. <sup>9</sup> Destroy not my soul together with the ungodly, nor my life with bloody men: <sup>10</sup> in whose hands are iniquities, and their right hand is filled with bribes. <sup>11</sup> But I have walked in my innocence: redeem me, and have mercy upon me. <sup>12</sup> My foot stands in an even place: in the congregations will I bless thee, O Lord. 

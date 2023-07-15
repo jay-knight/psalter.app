@@ -1,0 +1,6 @@
+---
+title: Psalm 100
+---
+# Psalm 100
+
+<sup>1</sup> A Psalm of David. I will sing to thee, O Lord, of mercy and judgment; I will sing a psalm, <sup>2</sup> and I will be wise in a blameless way. When wilt thou come to me? I walked in the innocence of my heart, in the midst of my house. <sup>3</sup> I have not set before mine eyes any unlawful thing; I have hated transgressors. <sup>4</sup> A perverse heart has not cleaved to me; I have not known an evil man, forasmuch as he turns away from me. <sup>5</sup> Him that privily speaks against his neighbour, him have I driven from me: he that is proud in look and insatiable in heart,—with him I have not eaten. <sup>6</sup> Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walked in a perfect way, the same ministered to me. <sup>7</sup> The proud doer dwelt not in the midst of my house; the unjust speaker prospered not in my sight. <sup>8</sup> Early did I slay all the sinners of the land, that I might destroy out of the city of the Lord all that work iniquity. 

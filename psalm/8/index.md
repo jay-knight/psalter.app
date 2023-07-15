@@ -1,0 +1,6 @@
+---
+title: Psalm 8
+---
+# Psalm 8
+
+<sup>1</sup> For the end, concerning the wine-presses, a Psalm of David. <sup>2</sup> O Lord, our Lord, how wonderful is thy name in all the earth! for thy magnificence is exalted above the heavens. <sup>3</sup> Out of the mouth of babes and sucklings hast thou perfected praise, because of thine enemies; that thou mightest put down the enemy and avenger. <sup>4</sup> For I will regard the heavens, the work of thy fingers; the moon and stars, which thou hast established. <sup>5</sup> What is man, that thou art mindful of him? or the son of man, that thou visitest him? <sup>6</sup> Thou madest him a little less than angels, thou hast crowned him with glory and honour; <sup>7</sup> and thou hast set him over the works of thy hands: thou hast put all things under his feet: <sup>8</sup> sheep and all oxen, yea, and the cattle of the field; <sup>9</sup> the birds of the sky, and the fish of the sea, the creatures passing through the paths of the sea. <sup>10</sup> O Lord our Lord, how wonderful is thy name in all the earth! 

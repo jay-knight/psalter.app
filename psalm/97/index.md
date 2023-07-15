@@ -1,0 +1,6 @@
+---
+title: Psalm 97
+---
+# Psalm 97
+
+<sup>1</sup> A Psalm of David. Sing to the Lord a new song; for the Lord has wrought wonderful works, his right hand, and his holy arm, have wrought salvation for him. <sup>2</sup> The Lord has made known his salvation, he has revealed his righteousness in the sight of the nations. <sup>3</sup> He has remembered his mercy to Jacob, and his truth to the house of Israel; all the ends of the earth have seen the salvation of our God. <sup>4</sup> Shout to God, all the earth; sing, and exult, and sing psalms. <sup>5</sup> Sing to the Lord with a harp, with a harp, and the voice of a psalm. <sup>6</sup> With trumpets of metal, and the sound of a trumpet of horn make a joyful noise to the Lord before the king. <sup>7</sup> Let the sea be moved, and the fulness of it; the world, and they that dwell in it. <sup>8</sup> The rivers shall clap their hands together; the mountains shall exult. <sup>9</sup> For he is come to judge the earth; he shall judge the world in righteousness, and the nations in uprightness. 

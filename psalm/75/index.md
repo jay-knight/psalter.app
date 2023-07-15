@@ -1,0 +1,6 @@
+---
+title: Psalm 75
+---
+# Psalm 75
+
+<sup>1</sup> For the end, among the Hymns, a Psalm for Asaph; a Song for the Assyrian. <sup>2</sup> God is known in Judea; his name is great in Israel. <sup>3</sup> And his place has been in peace, and his dwelling-place in Sion. <sup>4</sup> There he broke the power of the bows, the shield, and the sword, and the battle. Pause. <sup>5</sup> Thou dost wonderfully shine forth from the everlasting mountains. <sup>6</sup> All the simple ones in heart were troubled; all the men of wealth have slept their sleep, and have found nothing in their hands. <sup>7</sup> At thy rebuke, O God of Jacob, the riders on horses slumbered. <sup>8</sup> Thou art terrible; and who shall withstand thee, because of thine anger? <sup>9</sup> Thou didst cause judgment to be heard from heaven; the earth feared, and was still, <sup>10</sup> when God arose to judgment, to save all the meek in heart. Pause. <sup>11</sup> For the inward thought of man shall give thanks to thee: and the memorial of his inward thought shall keep a feast to thee. <sup>12</sup> Vow, and pay your vows to the Lord our God; all that are round about him shall bring gifts, even to him that is terrible, <sup>13</sup> and that takes away the spirits of princes; to him that is terrible among the kings of the earth. 

@@ -1,0 +1,6 @@
+---
+title: Psalm 63
+---
+# Psalm 63
+
+<sup>1</sup> For the end, a Psalm of David. <sup>2</sup> Hear my prayer, O God, when I make my petition to thee; deliver my soul from fear of the enemy. <sup>3</sup> Thou hast sheltered me from the conspiracy of them that do wickedly; from the multitude of them that work iniquity; <sup>4</sup> who have sharpened their tongues as a sword; they have bent their bow maliciously; <sup>5</sup> to shoot in secret at the blameless; they will shoot him suddenly, and will not fear. <sup>6</sup> They have set up for themselves an evil matter, they have given counsel to hide snares; they have said, Who shall see them? <sup>7</sup> They have searched out iniquity; they have wearied themselves with searching diligently, a man shall approach and the heart is deep, <sup>8</sup> and God shall be exalted, their wounds were caused by the weapon of the foolish children, <sup>9</sup> and their tongues have set him at nought, all that saw them were troubled; <sup>10</sup> and every man was alarmed, and they related the works of God, and understood his deeds. <sup>11</sup> The righteous shall rejoice in the Lord, and hope on him, and all the upright in heart shall be praised. 

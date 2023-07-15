@@ -1,0 +1,6 @@
+---
+title: Psalm 15
+---
+# Psalm 15
+
+<sup>1</sup> A writing of David. Keep me, O Lord; for I have hoped in thee. <sup>2</sup> I said to the Lord, Thou art my Lord; for thou hast no need of my goodness. <sup>3</sup> On behalf of the saints that are in his land, he has magnified all his pleasure in them. <sup>4</sup> Their weaknesses have been multiplied; afterward they hasted. I will by no means assemble their bloody meetings, neither will I make mention of their names with my lips. <sup>5</sup> The Lord is the portion of mine inheritance and of my cup: thou art he that restores my inheritance to me. <sup>6</sup> The lines have fallen to me in the best places, yea, I have a most excellent heritage. <sup>7</sup> I will bless the Lord who has instructed me; my reins too have chastened me even till night. <sup>8</sup> I foresaw the Lord always before my face; for he is on my right hand, that I should not be moved. <sup>9</sup> Therefore my heart rejoiced and my tongue exulted; moreover also my flesh shall rest in hope: <sup>10</sup> because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption. <sup>11</sup> Thou hast made known to me the ways of life; thou wilt fill me with joy with thy countenance: at thy right hand there are delights for ever. 

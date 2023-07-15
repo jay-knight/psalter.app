@@ -1,0 +1,6 @@
+---
+title: Psalm 111
+---
+# Psalm 111
+
+<sup>1</sup> Alleluia. Blessed is the man that fears the Lord: he will delight greatly in his commandments. <sup>2</sup> His seed shall be mighty in the earth: the generation of the upright shall be blessed. <sup>3</sup> Glory and riches shall be in his house; and his righteousness endures for evermore. <sup>4</sup> To the upright light has sprung up in darkness: he is pitiful, and merciful, and righteous. <sup>5</sup> The good man is he that pities and lends: he will direct his affairs with judgment. <sup>6</sup> For he shall not be moved for ever; the righteous shall be in everlasting remembrance. <sup>7</sup> He shall not be afraid of any evil report: his heart is ready to trust in the Lord. <sup>8</sup> His heart is established, he shall not fear, till he shall see his desire upon his enemies. <sup>9</sup> He has dispersed abroad; he has given to the poor; his righteousness endures for evermore: his horn shall be exalted with honour. <sup>10</sup> The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish. 

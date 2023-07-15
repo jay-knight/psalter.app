@@ -1,0 +1,6 @@
+---
+title: Psalm 98
+---
+# Psalm 98
+
+<sup>1</sup> A Psalm of David. The Lord reigns;—let the people rage; it is he that sits upon the cherubs, let the earth be moved. <sup>2</sup> The Lord is great in Sion, and is high over all the people. <sup>3</sup> Let them give thanks to thy great name; for it is terrible and holy. <sup>4</sup> And the king's honour loves judgment; thou hast prepared equity, thou hast wrought judgment and justice in Jacob. <sup>5</sup> Exalt ye the Lord our God, and worship at his footstool; for he is holy. <sup>6</sup> Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he heard them. <sup>7</sup> He spoke to them in a pillar of cloud; they kept his testimonies, and the ordinances which he gave them. <sup>8</sup> O Lord our God, thou heardest them; O God, thou becamest propitious to them, though thou didst take vengeance on all their devices. <sup>9</sup> Exalt ye the Lord our God, and worship at his holy mountain; for the Lord our God is holy. 
