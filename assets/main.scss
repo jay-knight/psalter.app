@@ -33,18 +33,18 @@ body {
 
         .psalm-header {
             display: grid;
-            grid-template-columns: 100px minmax(200px, 1fr) 100px;
+            grid-template-columns: 50px minmax(200px, 1fr) 50px;
 
             .previous-psalm,
             .next-psalm {
                 margin: auto 0;
             }
 
-            .previous-psalm::before {
-                content: '←';
+            .previous-psalm a::before {
+                content: '← ';
             }
-            .next-psalm::after {
-                content: '→';
+            .next-psalm a::after {
+                content: ' →';
             }
             
             .psalm-title {
@@ -72,6 +72,7 @@ body {
         nav {
             text-align: center;
             ul {
+                padding: 0;
                 display: flex;
                 vertical-align: center;
                 li {

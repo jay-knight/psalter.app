@@ -6,13 +6,13 @@ layout: page
     <div class="psalm-header">
         <div class="previous-psalm">
         {% if page.previous %}
-            <a href="/psalm/{{page.previous}}">Psalm {{page.previous}}</a>
+            <a href="/psalm/{{page.previous}}">{{page.previous}}</a>
         {% endif %}
         </div>
     <h2 class="psalm-title">Psalm {{ page.psalm }}</h2>
         <div class="next-psalm">
             {% if page.next %}
-                <a href="/psalm/{{page.next}}">Psalm {{page.next}}</a>
+                <a href="/psalm/{{page.next}}">{{page.next}}</a>
             {% endif %}
         </div>
     </div>
