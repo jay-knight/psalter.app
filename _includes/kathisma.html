@@ -1,0 +1,8 @@
+<h1>First Statis</h1>
+
+{% for psalm in include.stases[0] %}
+<h2>Psalm {{psalm}}</h2>
+
+{% assign psalm_file = "psalm" | append: psalm %}
+{% include psalm.html version="brenton" psalm="psalm_file" %}
+{% endfor %}

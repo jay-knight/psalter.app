@@ -1,4 +1,58 @@
 ---
 layout: page
 ---
-{{ content }}
+
+<section class="kathisma">
+    <div class="kathisma-header">
+        <div class="previous-kathisma">
+        {% if page.previous %}
+            <a href="/kathisma/{{page.previous}}">{{page.previous}}</a>
+        {% endif %}
+        </div>
+    <h2 class="kathisma-title">Kathisma {{ page.kathisma }}</h2>
+        <div class="next-kathisma">
+            {% if page.next %}
+                <a href="/kathisma/{{page.next}}">{{page.next}}</a>
+            {% endif %}
+        </div>
+    </div>
+
+    {% if page.stases %}
+
+        <h1 class="statis-header">First Statis</h1>
+
+        {% for psalm in page.stases[0] %}
+        <h2 class="psalm-title">Psalm {{psalm}}</h2>
+
+        {% assign psalm_file = "psalm" | append: psalm %}
+        {% include psalm.html version="brenton" psalm=psalm_file %}
+        {% endfor %}
+
+        {% include first_glory.html %}
+
+        <h1 class="statis-header">Second Stasis</h1>
+
+        {% for psalm in page.stases[1] %}
+        <h2 class="psalm-title">Psalm {{psalm}}</h2>
+
+        {% assign psalm_file = "psalm" | append: psalm %}
+        {% include psalm.html version="brenton" psalm=psalm_file %}
+        {% endfor %}
+
+        {% include first_glory.html %}
+
+        <h1 class="statis-header">Third Stasis</h1>
+
+        {% for psalm in page.stases[2] %}
+        <h2 class="psalm-title">Psalm {{psalm}}</h2>
+
+        {% assign psalm_file = "psalm" | append: psalm %}
+        {% include psalm.html version="brenton" psalm=psalm_file %}
+        {% endfor %}
+
+        {% include final_glory.html %}
+
+    {% endif %}
+    {{ content }}
+
+</section>

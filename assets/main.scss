@@ -47,9 +47,15 @@ body {
                 content: ' →';
             }
             
-            .psalm-title {
-                text-align: center;
-            }
+        }
+        .kathisma-header {
+            text-align: center;
+        }
+        .statis-header {
+            text-align: center;
+        }
+        .psalm-title {
+            text-align: center;
         }
         .psalm-text {
             font-size: 1.2em;
@@ -60,6 +66,12 @@ body {
             .verse-number {
                 color: #fd5656;
             }
+        }
+        
+        .glory {
+            font-size: 1.1em;
+            line-height: 1.4em;
+            text-align: center;
         }
     }
 

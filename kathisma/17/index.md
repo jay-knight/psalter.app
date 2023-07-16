@@ -1,7 +1,8 @@
 ---
 title: Kathisma 17
+kathisma: 17
+previous: 16
+next: 18
 layout: kathisma
 ---
-# Kathisma 17
-
-Coming Soon
+Coming soon, this one is different

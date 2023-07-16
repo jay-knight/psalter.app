@@ -27,18 +27,6 @@ for (chapter=1; chapter<=151; chapter++) {
     fs.writeFileSync(`../_data/brenton/psalm${chapter}.yml`, "")
 }
 
-// create all kathisma files and write the front matter
-for (kathisma=1; kathisma<=20; kathisma++) {
-    fs.mkdirSync(`../kathisma/${kathisma}`, {recursive: true} )
-    let fd = fs.openSync(`../kathisma/${kathisma}/index.md`, 'w+')
-    fs.writeSync(fd, "---\n")
-    fs.writeSync(fd, `title: Kathisma ${kathisma}\n`)
-    fs.writeSync(fd, `layout: kathisma\n`)
-    fs.writeSync(fd, "---\n")
-    fs.writeSync(fd, `# Kathisma ${kathisma}\n\n`)
-    fs.writeSync(fd, `Coming Soon`)
-}
-
 fs.readFile(filename, "utf-8", function (err,data) {
     const psalter = new JSDOM(data).window.document
 
