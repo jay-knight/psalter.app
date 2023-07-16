@@ -1,8 +1,8 @@
 ---
 title: Psalm 4
+version: brenton
 psalm: 4
 previous: 3
 next: 5
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> For the end, a Song of David among the Psalms. </div><div class="psalm-verse"><sup class="verse-number">2</sup> When I called upon him, the God of my righteousness heard me: thou hast made room for me in tribulation; pity me, and hearken to my prayer. </div><div class="psalm-verse"><sup class="verse-number">3</sup> O ye sons of men, how long will ye be slow of heart? wherefore do ye love vanity, and seek falsehood? Pause. </div><div class="psalm-verse"><sup class="verse-number">4</sup> But know ye that the Lord has done wondrous things for his holy one: the Lord will hear me when I cry to him. </div><div class="psalm-verse"><sup class="verse-number">5</sup> Be ye angry, and sin not; feel compunction upon your beds for what ye say in your hearts. Pause. </div><div class="psalm-verse"><sup class="verse-number">6</sup> Offer the sacrifice of righteousness, and trust in the Lord. </div><div class="psalm-verse"><sup class="verse-number">7</sup> Many say, Who will shew us good things? the light of thy countenance, O Lord, has been manifested towards us. </div><div class="psalm-verse"><sup class="verse-number">8</sup> Thou hast put gladness into my heart: they have been satisfied with the fruit of their corn and wine and oil. </div><div class="psalm-verse"><sup class="verse-number">9</sup> I will both lie down in peace and sleep: for thou, Lord, only hast caused me to dwell securely. </div>

@@ -1,8 +1,8 @@
 ---
 title: Psalm 46
+version: brenton
 psalm: 46
 previous: 45
 next: 47
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> For the end, a Psalm for the sons of Core. </div><div class="psalm-verse"><sup class="verse-number">2</sup> Clap your hands, all ye nations; shout to God with a voice of exultation. </div><div class="psalm-verse"><sup class="verse-number">3</sup> For the Lord most high is terrible; he is a great king over all the earth. </div><div class="psalm-verse"><sup class="verse-number">4</sup> He has subdued the peoples under us, and the nations under our feet. </div><div class="psalm-verse"><sup class="verse-number">5</sup> He has chosen out his inheritance for us, the beauty of Jacob which he loved. Pause. </div><div class="psalm-verse"><sup class="verse-number">6</sup> God is gone up with a shout, the Lord with a sound of a trumpet. </div><div class="psalm-verse"><sup class="verse-number">7</sup> Sing praises to our God, sing praises: sing praises to our King, sing praises. </div><div class="psalm-verse"><sup class="verse-number">8</sup> For God is king of all the earth: sing praises with understanding. </div><div class="psalm-verse"><sup class="verse-number">9</sup> God reigns over the nations: God sits upon the throne of his holiness. </div><div class="psalm-verse"><sup class="verse-number">10</sup> The rulers of the people are assembled with the God of Abraam: for God's mighty ones of the earth have been greatly exalted. </div>

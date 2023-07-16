@@ -1,8 +1,8 @@
 ---
 title: Psalm 8
+version: brenton
 psalm: 8
 previous: 7
 next: 9
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> For the end, concerning the wine-presses, a Psalm of David. </div><div class="psalm-verse"><sup class="verse-number">2</sup> O Lord, our Lord, how wonderful is thy name in all the earth! for thy magnificence is exalted above the heavens. </div><div class="psalm-verse"><sup class="verse-number">3</sup> Out of the mouth of babes and sucklings hast thou perfected praise, because of thine enemies; that thou mightest put down the enemy and avenger. </div><div class="psalm-verse"><sup class="verse-number">4</sup> For I will regard the heavens, the work of thy fingers; the moon and stars, which thou hast established. </div><div class="psalm-verse"><sup class="verse-number">5</sup> What is man, that thou art mindful of him? or the son of man, that thou visitest him? </div><div class="psalm-verse"><sup class="verse-number">6</sup> Thou madest him a little less than angels, thou hast crowned him with glory and honour; </div><div class="psalm-verse"><sup class="verse-number">7</sup> and thou hast set him over the works of thy hands: thou hast put all things under his feet: </div><div class="psalm-verse"><sup class="verse-number">8</sup> sheep and all oxen, yea, and the cattle of the field; </div><div class="psalm-verse"><sup class="verse-number">9</sup> the birds of the sky, and the fish of the sea, the creatures passing through the paths of the sea. </div><div class="psalm-verse"><sup class="verse-number">10</sup> O Lord our Lord, how wonderful is thy name in all the earth! </div>

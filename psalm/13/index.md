@@ -1,8 +1,8 @@
 ---
 title: Psalm 13
+version: brenton
 psalm: 13
 previous: 12
 next: 14
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> For the end, a Psalm of David. The fool has said in his heart, There is no God. They have corrupted themselves, and become abominable in their devices; there is none that does goodness, there is not even so much as one. </div><div class="psalm-verse"><sup class="verse-number">2</sup> The Lord looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God. </div><div class="psalm-verse"><sup class="verse-number">3</sup> They are all gone out of the way, they are together become good for nothing, there is none that does good, no not one. Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips: whose mouth is full of cursing and bitterness; their feet are swift to shed blood: destruction and misery are in their ways; and the way of peace they have not known: there is no fear of God before their eyes. </div><div class="psalm-verse"><sup class="verse-number">4</sup> Will not all the workers of iniquity know, who eat up my people as they would eat bread? they have not called upon the Lord. </div><div class="psalm-verse"><sup class="verse-number">5</sup> There were they alarmed with fear, where there was no fear; for God is in the righteous generation. </div><div class="psalm-verse"><sup class="verse-number">6</sup> Ye have shamed the counsel of the poor, because the Lord is his hope. </div><div class="psalm-verse"><sup class="verse-number">7</sup> Who will bring the salvation of Israel out of Sion? when the Lord brings back the captivity of his people, let Jacob exult, and Israel be glad. </div>

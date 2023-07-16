@@ -1,8 +1,8 @@
 ---
 title: Psalm 140
+version: brenton
 psalm: 140
 previous: 139
 next: 141
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A Psalm of David. O Lord, I have cried to thee; hear me: attend to the voice of my supplication, when I cry to thee. </div><div class="psalm-verse"><sup class="verse-number">2</sup> Let my prayer be set forth before thee as incense; the lifting up of my hands as an evening sacrifice. </div><div class="psalm-verse"><sup class="verse-number">3</sup> Set a watch, O Lord, on my mouth, and a strong door about my lips. </div><div class="psalm-verse"><sup class="verse-number">4</sup> Incline not my heart to evil things, to employ pretexts for sins, with men who work iniquity: and let me not unite with their choice ones. </div><div class="psalm-verse"><sup class="verse-number">5</sup> The righteous shall chasten me with mercy, and reprove me: but let not the oil of the sinner anoint my head: for yet shall my prayer also be in their pleasures. </div><div class="psalm-verse"><sup class="verse-number">6</sup> Their mighty ones have been swallowed up near the rock: they shall hear my words, for they are sweet. </div><div class="psalm-verse"><sup class="verse-number">7</sup> As a lump of earth is crushed upon the ground, our bones have been scattered by the mouth of the grave. </div><div class="psalm-verse"><sup class="verse-number">8</sup> For mine eyes are to thee, O Lord God: I have hoped in thee; take not away my life. </div><div class="psalm-verse"><sup class="verse-number">9</sup> Keep me from the snare which they have set for me, and from the stumbling-blocks of them that work iniquity. </div><div class="psalm-verse"><sup class="verse-number">10</sup> Sinners shall fall by their own net: I am alone until I shall escape. </div>

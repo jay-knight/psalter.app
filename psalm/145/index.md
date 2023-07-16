@@ -1,8 +1,8 @@
 ---
 title: Psalm 145
+version: brenton
 psalm: 145
 previous: 144
 next: 146
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> Alleluia, a Psalm of Aggæus and Zacharias. My soul, praise the Lord. </div><div class="psalm-verse"><sup class="verse-number">2</sup> While I live will I praise the Lord: I will sing praises to my God as long as I exist. </div><div class="psalm-verse"><sup class="verse-number">3</sup> Trust not in princes, nor in the children of men, in whom there is no safety. </div><div class="psalm-verse"><sup class="verse-number">4</sup> His breath shall go forth, and he shall return to his earth; in that day all his thoughts shall perish. </div><div class="psalm-verse"><sup class="verse-number">5</sup> Blessed is he whose helper is the God of Jacob, whose hope is in the Lord his God: </div><div class="psalm-verse"><sup class="verse-number">6</sup> who made heaven, and earth, the sea, and all things in them: who keeps truth for ever: </div><div class="psalm-verse"><sup class="verse-number">7</sup> who executes judgment for the wronged: who gives food to the hungry. The Lord looses the fettered ones: </div><div class="psalm-verse"><sup class="verse-number">8</sup> the Lord gives wisdom to the blind: The Lord sets up the broken down: the Lord loves the righteous: the Lord preserves the strangers; </div><div class="psalm-verse"><sup class="verse-number">9</sup> he will relieve the orphan and widow: but will utterly remove the way of sinners. </div><div class="psalm-verse"><sup class="verse-number">10</sup> The Lord shall reign for ever, even thy God, O Sion, to all generations. </div>

@@ -1,8 +1,8 @@
 ---
 title: Psalm 23
+version: brenton
 psalm: 23
 previous: 22
 next: 24
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A Psalm for David on the first day of the week. The earth is the Lord's and the fulness thereof; the world, and all that dwell in it. </div><div class="psalm-verse"><sup class="verse-number">2</sup> He has founded it upon the seas, and prepared it upon the rivers. </div><div class="psalm-verse"><sup class="verse-number">3</sup> Who shall go up to the mountain of the Lord, and who shall stand in his holy place? </div><div class="psalm-verse"><sup class="verse-number">4</sup> He that is innocent in his hands and pure in his heart; who has not lifted up his soul to vanity, nor sworn deceitfully to his neighbour. </div><div class="psalm-verse"><sup class="verse-number">5</sup> He shall receive a blessing from the Lord, and mercy from God his Saviour. </div><div class="psalm-verse"><sup class="verse-number">6</sup> This is the generation of them that seek him, that seek the face of the God of Jacob. Pause. </div><div class="psalm-verse"><sup class="verse-number">7</sup> Lift up your gates, ye princes, and be ye lifted up, ye everlasting doors; and the king of glory shall come in. </div><div class="psalm-verse"><sup class="verse-number">8</sup> Who is this king of glory? the Lord strong and mighty, the Lord mighty in battle. </div><div class="psalm-verse"><sup class="verse-number">9</sup> Lift up your gates, ye princes; and be ye lift up, ye everlasting doors; and the king of glory shall come in. </div><div class="psalm-verse"><sup class="verse-number">10</sup> Who is this king of glory? The Lord of hosts, he is this king of glory. </div>

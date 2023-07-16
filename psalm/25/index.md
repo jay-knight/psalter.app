@@ -1,8 +1,8 @@
 ---
 title: Psalm 25
+version: brenton
 psalm: 25
 previous: 24
 next: 26
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A Psalm of David. Judge me, O Lord; for I have walked in my innocence: and hoping in the Lord I shall not be moved. </div><div class="psalm-verse"><sup class="verse-number">2</sup> Prove me, O Lord, and try me; purify as with fire my reins and my heart. </div><div class="psalm-verse"><sup class="verse-number">3</sup> For thy mercy is before mine eyes: and I am well pleased with thy truth. </div><div class="psalm-verse"><sup class="verse-number">4</sup> I have not sat with the council of vanity, and will in nowise enter in with transgressors. </div><div class="psalm-verse"><sup class="verse-number">5</sup> I have hated the assembly of wicked doers; and will not sit with ungodly men. </div><div class="psalm-verse"><sup class="verse-number">6</sup> I will wash my hands in innocency, and compass thine altar, O Lord: </div><div class="psalm-verse"><sup class="verse-number">7</sup> to hear the voice of praise, and to declare all thy wonderful works. </div><div class="psalm-verse"><sup class="verse-number">8</sup> O Lord, I have loved the beauty of thy house, and the place of the tabernacle of thy glory. </div><div class="psalm-verse"><sup class="verse-number">9</sup> Destroy not my soul together with the ungodly, nor my life with bloody men: </div><div class="psalm-verse"><sup class="verse-number">10</sup> in whose hands are iniquities, and their right hand is filled with bribes. </div><div class="psalm-verse"><sup class="verse-number">11</sup> But I have walked in my innocence: redeem me, and have mercy upon me. </div><div class="psalm-verse"><sup class="verse-number">12</sup> My foot stands in an even place: in the congregations will I bless thee, O Lord. </div>

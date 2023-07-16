@@ -1,8 +1,8 @@
 ---
 title: Psalm 28
+version: brenton
 psalm: 28
 previous: 27
 next: 29
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A Psalm of David on the occasion of the solemn assembly of the Tabernacle. Bring to the Lord, ye sons of God, bring to the Lord young rams; bring to the Lord glory and honour. </div><div class="psalm-verse"><sup class="verse-number">2</sup> Bring to the Lord glory, due to his name; worship the Lord in his holy court. </div><div class="psalm-verse"><sup class="verse-number">3</sup> The voice of the Lord is upon the waters: the God of glory has thundered: the Lord is upon many waters. </div><div class="psalm-verse"><sup class="verse-number">4</sup> The voice of the Lord is mighty; the voice of the Lord is full of majesty. </div><div class="psalm-verse"><sup class="verse-number">5</sup> There is the voice of the Lord who breaks the cedars; the Lord will break the cedars of Libanus. </div><div class="psalm-verse"><sup class="verse-number">6</sup> And he will beat them small, even Libanus itself, like a calf; and the beloved one is as a young unicorn. </div><div class="psalm-verse"><sup class="verse-number">7</sup> There is a voice of the Lord who divides a flame of fire. </div><div class="psalm-verse"><sup class="verse-number">8</sup> A voice of the Lord who shakes the wilderness; the Lord will shake the wilderness of Cades. </div><div class="psalm-verse"><sup class="verse-number">9</sup> The voice of the Lord strengthens the hinds, and will uncover the thickets: and in his temple every one speaks of his glory. </div><div class="psalm-verse"><sup class="verse-number">10</sup> The Lord will dwell on the waterflood: and the Lord will sit a king for ever. </div><div class="psalm-verse"><sup class="verse-number">11</sup> The Lord will give strength to his people; the Lord will bless his people with peace. </div>

@@ -18,6 +18,12 @@ layout: page
     </div>
 
     <section class="psalm-text">
-        {{ content }}
+        {% assign psalm_file = "psalm" | append: page.psalm %}
+        {% for verse in site.data[page.version][psalm_file] %}
+            <div class="psalm-verse">
+                <sup class="verse-number">{{verse.verse}}</sup>
+                {{verse.text}}
+            </div>
+        {% endfor %}
     </section>
 </section>

@@ -1,8 +1,8 @@
 ---
 title: Psalm 98
+version: brenton
 psalm: 98
 previous: 97
 next: 99
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A Psalm of David. The Lord reigns;—let the people rage; it is he that sits upon the cherubs, let the earth be moved. </div><div class="psalm-verse"><sup class="verse-number">2</sup> The Lord is great in Sion, and is high over all the people. </div><div class="psalm-verse"><sup class="verse-number">3</sup> Let them give thanks to thy great name; for it is terrible and holy. </div><div class="psalm-verse"><sup class="verse-number">4</sup> And the king's honour loves judgment; thou hast prepared equity, thou hast wrought judgment and justice in Jacob. </div><div class="psalm-verse"><sup class="verse-number">5</sup> Exalt ye the Lord our God, and worship at his footstool; for he is holy. </div><div class="psalm-verse"><sup class="verse-number">6</sup> Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he heard them. </div><div class="psalm-verse"><sup class="verse-number">7</sup> He spoke to them in a pillar of cloud; they kept his testimonies, and the ordinances which he gave them. </div><div class="psalm-verse"><sup class="verse-number">8</sup> O Lord our God, thou heardest them; O God, thou becamest propitious to them, though thou didst take vengeance on all their devices. </div><div class="psalm-verse"><sup class="verse-number">9</sup> Exalt ye the Lord our God, and worship at his holy mountain; for the Lord our God is holy. </div>

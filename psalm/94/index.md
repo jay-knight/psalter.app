@@ -1,8 +1,8 @@
 ---
 title: Psalm 94
+version: brenton
 psalm: 94
 previous: 93
 next: 95
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> The praise of a Song by David. Come, let us exult in the Lord; let us make a joyful noise to God our Saviour. </div><div class="psalm-verse"><sup class="verse-number">2</sup> Let us come before his presence with thanksgiving, and make a joyful noise to him with psalms. </div><div class="psalm-verse"><sup class="verse-number">3</sup> For the Lord is a great God, and a great king over all gods: for the Lord will not cast off his people. </div><div class="psalm-verse"><sup class="verse-number">4</sup> For the ends of the earth are in his hands; and the heights of the mountains are his. </div><div class="psalm-verse"><sup class="verse-number">5</sup> For the sea is his, and he made it: and his hands formed the dry land. </div><div class="psalm-verse"><sup class="verse-number">6</sup> Come, let us worship and fall down before him; and weep before the Lord that made us. </div><div class="psalm-verse"><sup class="verse-number">7</sup> For he is our God; and we are the people of his pasture, and the sheep of his hand. </div><div class="psalm-verse"><sup class="verse-number">8</sup> To-day, if ye will hear his voice, harden not your hearts, as in the provocation, according to the day of irritation in the wilderness: </div><div class="psalm-verse"><sup class="verse-number">9</sup> where your fathers tempted me, proved me, and saw my works. </div><div class="psalm-verse"><sup class="verse-number">10</sup> Forty years was I grieved with this generation, and said, They do always err in their heart, and they have not known my ways. </div><div class="psalm-verse"><sup class="verse-number">11</sup> So I sware in my wrath, They shall not enter into my rest. </div>

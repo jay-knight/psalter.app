@@ -1,8 +1,8 @@
 ---
 title: Psalm 110
+version: brenton
 psalm: 110
 previous: 109
 next: 111
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> Alleluia. I will give thee thanks, O Lord, with my whole heart, in the council of the upright, and in the congregation. </div><div class="psalm-verse"><sup class="verse-number">2</sup> The works of the Lord are great, sought out according to all his will. </div><div class="psalm-verse"><sup class="verse-number">3</sup> His work is worthy of thanksgiving and honour: and his righteousness endures for ever and ever. </div><div class="psalm-verse"><sup class="verse-number">4</sup> He has caused his wonderful works to be remembered: the Lord is merciful and compassionate. </div><div class="psalm-verse"><sup class="verse-number">5</sup> He has given food to them that fear him: he will remember his covenant for ever. </div><div class="psalm-verse"><sup class="verse-number">6</sup> He has declared to his people the power of his works, to give them the inheritance of the heathen. </div><div class="psalm-verse"><sup class="verse-number">7</sup> The works of his hands are truth and judgment: all his commandments are sure: </div><div class="psalm-verse"><sup class="verse-number">8</sup> established for ever and ever, done in truth and uprightness. </div><div class="psalm-verse"><sup class="verse-number">9</sup> He sent redemption to his people: he commanded his covenant for ever: holy and fearful is his name. </div><div class="psalm-verse"><sup class="verse-number">10</sup> The fear of the Lord is the beginning of wisdom, and all that act accordingly have a good understanding; his praise endures for ever and ever. </div>

@@ -1,8 +1,8 @@
 ---
 title: Psalm 15
+version: brenton
 psalm: 15
 previous: 14
 next: 16
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A writing of David. Keep me, O Lord; for I have hoped in thee. </div><div class="psalm-verse"><sup class="verse-number">2</sup> I said to the Lord, Thou art my Lord; for thou hast no need of my goodness. </div><div class="psalm-verse"><sup class="verse-number">3</sup> On behalf of the saints that are in his land, he has magnified all his pleasure in them. </div><div class="psalm-verse"><sup class="verse-number">4</sup> Their weaknesses have been multiplied; afterward they hasted. I will by no means assemble their bloody meetings, neither will I make mention of their names with my lips. </div><div class="psalm-verse"><sup class="verse-number">5</sup> The Lord is the portion of mine inheritance and of my cup: thou art he that restores my inheritance to me. </div><div class="psalm-verse"><sup class="verse-number">6</sup> The lines have fallen to me in the best places, yea, I have a most excellent heritage. </div><div class="psalm-verse"><sup class="verse-number">7</sup> I will bless the Lord who has instructed me; my reins too have chastened me even till night. </div><div class="psalm-verse"><sup class="verse-number">8</sup> I foresaw the Lord always before my face; for he is on my right hand, that I should not be moved. </div><div class="psalm-verse"><sup class="verse-number">9</sup> Therefore my heart rejoiced and my tongue exulted; moreover also my flesh shall rest in hope: </div><div class="psalm-verse"><sup class="verse-number">10</sup> because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption. </div><div class="psalm-verse"><sup class="verse-number">11</sup> Thou hast made known to me the ways of life; thou wilt fill me with joy with thy countenance: at thy right hand there are delights for ever. </div>

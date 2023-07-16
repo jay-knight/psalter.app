@@ -1,8 +1,8 @@
 ---
 title: Psalm 141
+version: brenton
 psalm: 141
 previous: 140
 next: 142
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> A Psalm of instruction for David, when he was in the cave,—a Prayer. </div><div class="psalm-verse"><sup class="verse-number">2</sup> I cried to the Lord with my voice; with my voice I made supplication to the Lord. </div><div class="psalm-verse"><sup class="verse-number">3</sup> I will pour out before him my supplication: I will declare before him mine affliction. </div><div class="psalm-verse"><sup class="verse-number">4</sup> When my spirit was fainting within me, then thou knewest my paths; in the very way wherein I was walking, they hid a snare for me. </div><div class="psalm-verse"><sup class="verse-number">5</sup> I looked on my right hand, and behold, for there was none that noticed me; refuge failed me; and there was none that cared for my soul. </div><div class="psalm-verse"><sup class="verse-number">6</sup> I cried unto thee, O Lord, and said, Thou art my hope, my portion in the land of the living. </div><div class="psalm-verse"><sup class="verse-number">7</sup> Attend to my supplication, for I am brought very low; deliver me from them that persecute me; for they are stronger than I. </div><div class="psalm-verse"><sup class="verse-number">8</sup> Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me. </div>

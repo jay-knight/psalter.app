@@ -1,8 +1,8 @@
 ---
 title: Psalm 51
+version: brenton
 psalm: 51
 previous: 50
 next: 52
 layout: psalm
 ---
-<div class="psalm-verse"><sup class="verse-number">1</sup> For the end, a Psalm of instruction by David, </div><div class="psalm-verse"><sup class="verse-number">2</sup> when Doec the Idumean came and told Saul, and said to him, David is gone to the house of Abimelech. </div><div class="psalm-verse"><sup class="verse-number">3</sup> Why dost thou, O mighty man, boast of iniquity in thy mischief? All the day </div><div class="psalm-verse"><sup class="verse-number">4</sup> thy tongue has devised unrighteousness; like a sharpened razor thou hast wrought deceit. </div><div class="psalm-verse"><sup class="verse-number">5</sup> Thou hast loved wickedness more than goodness; unrighteousness better than to speak righteousness. Pause. </div><div class="psalm-verse"><sup class="verse-number">6</sup> Thou hast loved all words of destruction, and a deceitful tongue. </div><div class="psalm-verse"><sup class="verse-number">7</sup> Therefore may God destroy thee for ever, may he pluck thee up and utterly remove thee from thy dwelling, and thy root from the land of the living. Pause. </div><div class="psalm-verse"><sup class="verse-number">8</sup> And the righteous shall see, and fear, and shall laugh at him, and say, </div><div class="psalm-verse"><sup class="verse-number">9</sup> Behold the man who made not God his help; but trusted in the abundance of his wealth, and strengthened himself in his vanity. </div><div class="psalm-verse"><sup class="verse-number">10</sup> But I am as a fruitful olive in the house of God: I have trusted in the mercy of God for ever, even for evermore. </div><div class="psalm-verse"><sup class="verse-number">11</sup> I will give thanks to thee for ever, for thou hast done it: and I will wait on thy name; for it is good before thy saints. </div>
