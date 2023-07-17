@@ -31,29 +31,24 @@ body {
         max-width: 100%;
         margin: 0 auto;
 
-        .psalm-header {
+        .sequence-header {
             display: grid;
             grid-template-columns: 50px minmax(200px, 1fr) 50px;
 
-            .previous-psalm,
-            .next-psalm {
+            .previous,
+            .next {
                 margin: auto 0;
             }
 
-            .previous-psalm a::before {
+            .previous a::before {
                 content: '← ';
             }
-            .next-psalm a::after {
+            .next a::after {
                 content: ' →';
             }
-            
         }
-        .kathisma-header {
-            text-align: center;
-        }
-        .statis-header {
-            text-align: center;
-        }
+        .kathisma-title,
+        .stasis-header,
         .psalm-title {
             text-align: center;
         }

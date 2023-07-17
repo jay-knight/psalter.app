@@ -1,8 +1,11 @@
+
 <section class="psalm-text">
     {% for verse in site.data[include.version][include.psalm] %}
+    {% unless include.verses and verse.verse < include.verses[0] or verse.verse > include.verses[1] %}
         <div class="psalm-verse">
             <sup class="verse-number">{{verse.verse}}</sup>
             {{verse.text}}
         </div>
+    {% endunless %}
     {% endfor %}
 </section>

@@ -1,8 +1,28 @@
 ---
-title: Kathisma 17
 kathisma: 17
-previous: 16
-next: 18
+verses: [[1,72], [73,131], [132,176]]
 layout: kathisma
 ---
-Coming soon, this one is different
+
+<h1 class="stasis-header">First Stasis</h1>
+
+<h2 class="psalm-title">Psalm 118</h2>
+
+{% assign verses = page.verses[0] %}
+{% include psalm.html version="brenton" psalm="psalm118" verses=verses %}
+
+{% include first_glory.html %}
+
+<h1 class="stasis-header">Second Stasis</h1>
+
+{% assign verses = page.verses[1] %}
+{% include psalm.html version="brenton" psalm="psalm118" verses=verses %}
+
+{% include first_glory.html %}
+
+<h1 class="stasis-header">Third Stasis</h1>
+
+{% assign verses = page.verses[1] %}
+{% include psalm.html version="brenton" psalm="psalm118" verses=verses %}
+
+{% include final_glory.html %}

@@ -3,25 +3,28 @@ layout: page
 ---
 
 <section class="kathisma">
-    <div class="kathisma-header">
-        <div class="previous-kathisma">
-        {% if page.previous %}
-            <a href="/kathisma/{{page.previous}}">{{page.previous}}</a>
+    {% assign previous = page.kathisma | minus: 1 %}
+    {% assign next     = page.kathisma | plus:  1 %}
+    <div class="sequence-header">
+        <div class="previous">
+        {% if site.data.kathisma[previous] %}
+            <a href="/kathisma/{{previous}}">{{previous}}</a>
         {% endif %}
         </div>
     <h2 class="kathisma-title">Kathisma {{ page.kathisma }}</h2>
-        <div class="next-kathisma">
-            {% if page.next %}
-                <a href="/kathisma/{{page.next}}">{{page.next}}</a>
+        <div class="next">
+            {% if site.data.kathisma[next] %}
+                <a href="/kathisma/{{next}}">{{next}}</a>
             {% endif %}
         </div>
     </div>
 
-    {% if page.stases %}
+    {% if site.data.kathisma[page.kathisma] %}
+        {% assign stases = site.data.kathisma[page.kathisma] %}
 
-        <h1 class="statis-header">First Statis</h1>
+        <h1 class="stasis-header">First Stasis</h1>
 
-        {% for psalm in page.stases[0] %}
+        {% for psalm in stases[0] %}
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
         {% assign psalm_file = "psalm" | append: psalm %}
@@ -30,9 +33,9 @@ layout: page
 
         {% include first_glory.html %}
 
-        <h1 class="statis-header">Second Stasis</h1>
+        <h1 class="stasis-header">Second Stasis</h1>
 
-        {% for psalm in page.stases[1] %}
+        {% for psalm in stases[1] %}
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
         {% assign psalm_file = "psalm" | append: psalm %}
@@ -41,9 +44,9 @@ layout: page
 
         {% include first_glory.html %}
 
-        <h1 class="statis-header">Third Stasis</h1>
+        <h1 class="stasis-header">Third Stasis</h1>
 
-        {% for psalm in page.stases[2] %}
+        {% for psalm in stases[2] %}
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
         {% assign psalm_file = "psalm" | append: psalm %}

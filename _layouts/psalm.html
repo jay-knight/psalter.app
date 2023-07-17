@@ -3,21 +3,25 @@ layout: page
 ---
 
 <section class="psalm">
-    <div class="psalm-header">
-        <div class="previous-psalm">
-        {% if page.previous %}
-            <a href="/psalm/{{page.previous}}">{{page.previous}}</a>
+    {% assign previous = page.psalm | minus: 1 %}
+    {% assign next     = page.psalm | plus:  1 %}
+    {% assign previous_psalm_file = "psalm" | append: previous   %}
+    {% assign next_psalm_file     = "psalm" | append: next       %}
+    {% assign psalm_file          = "psalm" | append: page.psalm %}
+    <div class="sequence-header">
+        <div class="previous">
+        {% if site.data[page.version][previous_psalm_file] %}
+            <a href="/psalm/{{previous}}">{{previous}}</a>
         {% endif %}
         </div>
     <h2 class="psalm-title">Psalm {{ page.psalm }}</h2>
-        <div class="next-psalm">
-            {% if page.next %}
-                <a href="/psalm/{{page.next}}">{{page.next}}</a>
+        <div class="next">
+            {% if site.data[page.version][next_psalm_file] %}
+                <a href="/psalm/{{next}}">{{next}}</a>
             {% endif %}
         </div>
     </div>
 
-    {% assign psalm_file = "psalm" | append: page.psalm %}
     {% include psalm.html psalm=psalm_file version=page.version %}
 
 </section>
