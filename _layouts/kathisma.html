@@ -19,7 +19,9 @@ layout: page
         </div>
     </div>
 
-    {% if site.data.kathisma[page.kathisma] %}
+    {% if page.custom_display %}
+        {{ content }}
+    {% else %}
         {% assign stases = site.data.kathisma[page.kathisma] %}
 
         <h1 class="stasis-header">First Stasis</h1>
@@ -56,6 +58,5 @@ layout: page
         {% include final_glory.html %}
 
     {% endif %}
-    {{ content }}
 
 </section>

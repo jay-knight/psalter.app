@@ -1,6 +1,7 @@
 ---
-kathisma: null
+kathisma: 17
 psalm: "118"
+custom_display: true
 version: "brenton"
 verses: [[1,72], [73,131], [132,176]]
 layout: kathisma
