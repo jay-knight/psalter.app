@@ -1,10 +1,25 @@
 
 <section class="psalm-text">
-    {% for verse in site.data[include.version][include.psalm] %}
-    {% unless include.verses and verse.verse < include.verses[0] or verse.verse > include.verses[1] %}
+    {% if site.data[include.version][include.psalm].inscription %}
+    <div class="psalm-inscription">
+    {% for verse in site.data[include.version][include.psalm].inscription %}
+    {% assign verse_number = verse[0] | to_integer %}
+    {% unless include.verses and verse_number < include.verses[0] or verse_number > include.verses[1] %}
+        <span class="psalm-verse">
+            <sup class="verse-number">{{verse_number}}</sup>
+            {{verse[1]}}
+        </span>
+    {% endunless %}
+    {% endfor %}
+    </div>
+    {% endif %}
+
+    {% for verse in site.data[include.version][include.psalm].verses %}
+    {% assign verse_number = verse[0] | to_integer %}
+    {% unless include.verses and verse_number < include.verses[0] or verse_number > include.verses[1] %}
         <div class="psalm-verse">
-            <sup class="verse-number">{{verse.verse}}</sup>
-            {{verse.text}}
+            <sup class="verse-number">{{verse_number}}</sup>
+            {{verse[1]}}
         </div>
     {% endunless %}
     {% endfor %}

@@ -59,6 +59,13 @@ body {
         .psalm-text {
             font-size: 1.2em;
             line-height: 1.65em;
+            .psalm-inscription {
+                font-style: italic;
+                text-align: center;
+                .verse-number {
+                    display: none;
+                }
+            }
             .psalm-verse {
                 margin-bottom: .5em;
             }

@@ -27,8 +27,8 @@ layout: page
         {% for psalm in stases[0] %}
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
-        {% assign psalm_file = "psalm" | append: psalm %}
-        {% include psalm.html version="brenton" psalm=psalm_file %}
+        {% assign psalm_index = "" | append: psalm %}
+        {% include psalm.html version="brenton" psalm=psalm_index %}
         {% endfor %}
 
         {% include first_glory.html %}
@@ -38,8 +38,8 @@ layout: page
         {% for psalm in stases[1] %}
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
-        {% assign psalm_file = "psalm" | append: psalm %}
-        {% include psalm.html version="brenton" psalm=psalm_file %}
+        {% assign psalm_index = "" | append: psalm %}
+        {% include psalm.html version="brenton" psalm=psalm_index %}
         {% endfor %}
 
         {% include first_glory.html %}
@@ -49,8 +49,8 @@ layout: page
         {% for psalm in stases[2] %}
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
-        {% assign psalm_file = "psalm" | append: psalm %}
-        {% include psalm.html version="brenton" psalm=psalm_file %}
+        {% assign psalm_index = "" | append: psalm %}
+        {% include psalm.html version="brenton" psalm=psalm_index %}
         {% endfor %}
 
         {% include final_glory.html %}

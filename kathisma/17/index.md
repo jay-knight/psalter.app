@@ -1,5 +1,7 @@
 ---
-kathisma: 17
+kathisma: null
+psalm: "118"
+version: "brenton"
 verses: [[1,72], [73,131], [132,176]]
 layout: kathisma
 ---
@@ -9,20 +11,20 @@ layout: kathisma
 <h2 class="psalm-title">Psalm 118</h2>
 
 {% assign verses = page.verses[0] %}
-{% include psalm.html version="brenton" psalm="psalm118" verses=verses %}
+{% include psalm.html version=page.version psalm=page.psalm verses=verses %}
 
 {% include first_glory.html %}
 
 <h1 class="stasis-header">Second Stasis</h1>
 
 {% assign verses = page.verses[1] %}
-{% include psalm.html version="brenton" psalm="psalm118" verses=verses %}
+{% include psalm.html version=page.version psalm=page.psalm verses=verses %}
 
 {% include first_glory.html %}
 
 <h1 class="stasis-header">Third Stasis</h1>
 
 {% assign verses = page.verses[1] %}
-{% include psalm.html version="brenton" psalm="psalm118" verses=verses %}
+{% include psalm.html version=page.version psalm=page.psalm verses=verses %}
 
 {% include final_glory.html %}
