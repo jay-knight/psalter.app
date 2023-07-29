@@ -24,6 +24,8 @@ layout: page
     {% else %}
         {% assign stases = site.data.kathisma[page.kathisma] %}
 
+        {% include pre_glory.html %}
+
         <h1 class="stasis-header">First Stasis</h1>
 
         {% for psalm in stases[0] %}

@@ -7,6 +7,8 @@ verses: [[1,72], [73,131], [132,176]]
 layout: kathisma
 ---
 
+{% include pre_glory.html %}
+
 <h1 class="stasis-header">First Stasis</h1>
 
 <h2 class="psalm-title">Psalm 118</h2>

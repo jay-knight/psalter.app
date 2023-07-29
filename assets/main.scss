@@ -1,14 +1,26 @@
 ---
 ---
 
-$text-color: #181818;
+$dark-color:  #10100e;
+$light-color: #ffffe9;
 body {
 
-    background-color: #f8f8f8;
-    color: $text-color;
+    // light theme
+    background-color: $light-color;
+    color: $dark-color;
+    a {
+        color: $dark-color;
+    }
+    html &.dark-theme {
+        background-color: $dark-color;
+        color: $light-color;
+        a {
+            color: $light-color;
+        }
+    }
+    font-family: serif;
     a {
         text-decoration: none;
-        color: $text-color;
     }
     padding: 0;
 
@@ -22,6 +34,11 @@ body {
         h1 {
             flex: 1;
             margin: 0;
+        }
+        #theme-toggle {
+            padding: 0 1em;
+            font-size: 1.5em;
+            cursor: pointer;
         }
     }
 
@@ -76,7 +93,7 @@ body {
                 color: #fd5656;
             }
         }
-        
+
         .glory {
             font-size: 1.1em;
             font-style: italic;
