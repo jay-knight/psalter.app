@@ -11,7 +11,7 @@ body {
     a {
         color: $dark-color;
     }
-    html &.dark-theme {
+    @media (prefers-color-scheme: dark) {
         background-color: $dark-color;
         color: $light-color;
         a {
