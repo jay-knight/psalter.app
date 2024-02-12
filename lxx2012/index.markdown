@@ -5,8 +5,8 @@
 layout: home
 ---
 
-## Version: Brenton (1851)
-→ [Swith to LXX2012](/lxx2012/)
+## Version: LXX2012
+→ [Swith to Brenton (1851)](/)
 
 ## The Psalms
 <ul id="psalms">
