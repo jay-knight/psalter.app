@@ -30,29 +30,37 @@ JSDOM.fromFile(filename, {}).then(dom => {
         break
       case 'p':
       case 'd':
-        if (node.getAttribute("style") != node.nodeName) {
-          break
-        }
-        section_type=node.nodeName == 'p' ? SectionType.Verses : SectionType.Inscription
+      case 'q':
+        section_type=node.nodeName != 'd' ? SectionType.Verses : SectionType.Inscription
         node.childNodes.forEach(node => {
+          console.log(node)
           switch (node.nodeName) {
             case 'v':
-              verse += 1
+              if (section_type == SectionType.Verses) {
+                verse += 1
+              }
               break
             case 'add':
             case 'sc':
             case '#text':
+              if (chapter == 0) {
+                break
+              }
               if (!psalms[chapter][section_type]) {
                   psalms[chapter][section_type] = {}
               }
               if (!psalms[chapter][section_type][verse]) {
-                  psalms[chapter][section_type][verse] = "" 
+                  psalms[chapter][section_type][verse] = ""
                   space = ""
               }
               if (node.textContent !== undefined) {
-                psalms[chapter][section_type][verse] += space + node.textContent.replace(/\n/gm, " ").trim()
+                psalms[chapter][section_type][verse] +=
+                  space + node.textContent.replace(/\n/gm, " ").trim()
                 space = " "
-                psalms[chapter][section_type][verse] = psalms[chapter][section_type][verse].replace(/ ([\.,:;])/g, "$1").replace(/  */g, " ").trim()
+                psalms[chapter][section_type][verse] =
+                  psalms[chapter][section_type][verse]
+                    .replace(/ ([\.,:;])/g, "$1")
+                    .replace(/  */g, " ").trim()
               }
               break
           }
