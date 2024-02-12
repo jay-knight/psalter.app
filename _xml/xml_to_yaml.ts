@@ -27,7 +27,6 @@ JSDOM.fromFile(filename, {}).then(dom => {
         chapter += 1
         psalms[chapter] = {}
         verse = 0
-        //console.log(`Chapter: ${chapter}`)
         break
       case 'p':
       case 'd':
@@ -35,11 +34,9 @@ JSDOM.fromFile(filename, {}).then(dom => {
           break
         }
         section_type=node.nodeName == 'p' ? SectionType.Verses : SectionType.Inscription
-        //console.log(section_type)
         node.childNodes.forEach(node => {
           switch (node.nodeName) {
             case 'v':
-              // previous verse!
               verse += 1
               break
             case 'add':
