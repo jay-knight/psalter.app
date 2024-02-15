@@ -33,7 +33,6 @@ JSDOM.fromFile(filename, {}).then(dom => {
       case 'q':
         section_type=node.nodeName != 'd' ? SectionType.Verses : SectionType.Inscription
         node.childNodes.forEach(node => {
-          console.log(node.nodeName)
           switch (node.nodeName) {
             case 'v':
               verse += 1
@@ -69,7 +68,5 @@ JSDOM.fromFile(filename, {}).then(dom => {
         break
     }
   })
-  //console.log(psalms)
-  //console.log(stringify(psalms))
   Deno.writeTextFile(flags.out, stringify(psalms, {lineWidth: 80}))
 })
