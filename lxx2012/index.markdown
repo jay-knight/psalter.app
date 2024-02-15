@@ -6,7 +6,8 @@ layout: home
 ---
 
 ## Version: LXX2012
-→ [Swith to Brenton (1851)](/)
+→ [Swith to Brenton (1851)](/)  
+→ [Swith to KJV](/kjv/)
 
 ## The Psalms
 <ul id="psalms">
