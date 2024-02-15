@@ -36,9 +36,7 @@ JSDOM.fromFile(filename, {}).then(dom => {
           console.log(node.nodeName)
           switch (node.nodeName) {
             case 'v':
-              if (section_type == SectionType.Verses) {
-                verse += 1
-              }
+              verse += 1
               break
             case 'add':
             case 'sc':
