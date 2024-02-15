@@ -33,7 +33,7 @@ JSDOM.fromFile(filename, {}).then(dom => {
       case 'q':
         section_type=node.nodeName != 'd' ? SectionType.Verses : SectionType.Inscription
         node.childNodes.forEach(node => {
-          console.log(node)
+          console.log(node.nodeName)
           switch (node.nodeName) {
             case 'v':
               if (section_type == SectionType.Verses) {
@@ -42,6 +42,7 @@ JSDOM.fromFile(filename, {}).then(dom => {
               break
             case 'add':
             case 'sc':
+            case 'w':
             case '#text':
               if (chapter == 0) {
                 break

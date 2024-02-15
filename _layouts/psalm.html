@@ -11,13 +11,13 @@ layout: page
     <div class="sequence-header">
         <div class="previous">
         {% if site.data[page.version][previous_psalm] %}
-            <a href="/psalm/{{previous}}">{{previous}}</a>
+            <a href="../{{previous}}">{{previous}}</a>
         {% endif %}
         </div>
     <h2 class="psalm-title">Psalm {{ page.psalm }}</h2>
         <div class="next">
             {% if site.data[page.version][next_psalm] %}
-                <a href="/psalm/{{next}}">{{next}}</a>
+                <a href="../{{next}}">{{next}}</a>
             {% endif %}
         </div>
     </div>

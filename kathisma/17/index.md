@@ -1,5 +1,6 @@
 ---
 kathisma: 17
+numbering: greek
 psalm: "118"
 custom_display: true
 version: "brenton"

@@ -7,14 +7,14 @@ layout: page
     {% assign next     = page.kathisma | plus:  1 %}
     <div class="sequence-header">
         <div class="previous">
-        {% if site.data.kathisma[previous] %}
-            <a href="/kathisma/{{previous}}">{{previous}}</a>
+        {% if site.data.kathisma[page.numbering][previous] %}
+            <a href="../{{previous}}">{{previous}}</a>
         {% endif %}
         </div>
     <h2 class="kathisma-title">Kathisma {{ page.kathisma }}</h2>
         <div class="next">
-            {% if site.data.kathisma[next] %}
-                <a href="/kathisma/{{next}}">{{next}}</a>
+            {% if site.data.kathisma[page.numbering][next] %}
+                <a href="../{{next}}">{{next}}</a>
             {% endif %}
         </div>
     </div>
@@ -22,7 +22,7 @@ layout: page
     {% if page.custom_display %}
         {{ content }}
     {% else %}
-        {% assign stases = site.data.kathisma[page.kathisma] %}
+        {% assign stases = site.data.kathisma[page.numbering][page.kathisma] %}
 
         {% include pre_glory.html %}
 
