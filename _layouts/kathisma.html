@@ -32,7 +32,7 @@ layout: page
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
         {% assign psalm_index = "" | append: psalm %}
-        {% include psalm.html version="brenton" psalm=psalm_index %}
+        {% include psalm.html version=page.version psalm=psalm_index %}
         {% endfor %}
 
         {% include first_glory.html %}
@@ -43,7 +43,7 @@ layout: page
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
         {% assign psalm_index = "" | append: psalm %}
-        {% include psalm.html version="brenton" psalm=psalm_index %}
+        {% include psalm.html version=page.version psalm=psalm_index %}
         {% endfor %}
 
         {% include first_glory.html %}
@@ -54,7 +54,7 @@ layout: page
         <h2 class="psalm-title">Psalm {{psalm}}</h2>
 
         {% assign psalm_index = "" | append: psalm %}
-        {% include psalm.html version="brenton" psalm=psalm_index %}
+        {% include psalm.html version=page.version psalm=psalm_index %}
         {% endfor %}
 
         {% include final_glory.html %}
