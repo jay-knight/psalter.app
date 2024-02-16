@@ -1,5 +1,6 @@
 ---
 kathisma: 17
+title: Kathisma 17 (KJV)
 numbering: hebrew
 psalm: "119"
 custom_display: true

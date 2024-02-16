@@ -1,5 +1,6 @@
 ---
 kathisma: 17
+title: Kathisma 17 (Brenton)
 numbering: greek
 psalm: "118"
 custom_display: true
