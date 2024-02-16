@@ -4483,11 +4483,9 @@
       generation and generation.
 '100':
   inscription:
-    '0': (101)
+    '0': (101) A Psalm of David.
   verses:
-    '1': >-
-      A Psalm of David. I will sing to you, O Lord, of mercy and judgment; I
-      will sing a psalm,
+    '1': 'I will sing to you, O Lord, of mercy and judgment; I will sing a psalm,'
     '2': >-
       and I will be wise in a blameless way. When will you come to me? I walked
       in the innocence of my heart, in the midst of my house.
