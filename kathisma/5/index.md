@@ -1,4 +1,5 @@
 ---
+version: brenton
 kathisma: 5
 title: Kathisma 5 (Brenton)
 numbering: greek

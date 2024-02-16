@@ -1,4 +1,5 @@
 ---
+version: kjv
 kathisma: 15
 title: Kathisma 15 (KJV)
 numbering: hebrew

@@ -1,4 +1,5 @@
 ---
+version: brenton
 kathisma: 14
 title: Kathisma 14 (Brenton)
 numbering: greek

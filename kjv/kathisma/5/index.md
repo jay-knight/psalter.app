@@ -1,4 +1,5 @@
 ---
+version: kjv
 kathisma: 5
 title: Kathisma 5 (KJV)
 numbering: hebrew

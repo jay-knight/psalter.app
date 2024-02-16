@@ -1,4 +1,5 @@
 ---
+version: lxx2012
 kathisma: 10
 title: Kathisma 10 (LXX2012)
 numbering: greek

@@ -1,4 +1,5 @@
 ---
+version: kjv
 kathisma: 17
 title: Kathisma 17 (KJV)
 numbering: hebrew

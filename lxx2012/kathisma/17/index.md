@@ -1,4 +1,5 @@
 ---
+version: lxx2012
 kathisma: 17
 title: Kathisma 17 (LXX2012)
 numbering: greek

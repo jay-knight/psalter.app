@@ -1,4 +1,5 @@
 ---
+version: brenton
 kathisma: 17
 title: Kathisma 17 (Brenton)
 numbering: greek
