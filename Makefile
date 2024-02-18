@@ -18,3 +18,7 @@ _data/kjv.yaml: _xml/eng-kjv_usfx.xml _xml/xml_to_yaml.ts
 site: _data/*.yaml
 	bundle exec jekyll build
 
+sitemap.txt: site
+	find _site -name 'index.html' -printf "https://psalter.app/%h/\n" | sed 's|/_site/|/|' |  sort -u > sitemap.txt
+
+all: site sitemap.txt
