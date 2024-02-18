@@ -4,8 +4,8 @@ title: Online Psalter (Brenton)
 ---
 
 ## Version: Brenton (1851)
-→ [Swith to LXX2012](/lxx2012/)  
-→ [Swith to KJV](/kjv/)
+→ [Switch to LXX2012](/lxx2012/)  
+→ [Switch to KJV](/kjv/)
 
 ## The Psalms
 <ul id="psalms">
