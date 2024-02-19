@@ -39,6 +39,7 @@ JSDOM.fromFile(filename, {}).then(dom => {
               break
             case 'add':
             case 'sc':
+            case 'nd':
             case 'w':
             case '#text':
               if (chapter == 0) {
