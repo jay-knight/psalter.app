@@ -3,7 +3,7 @@ layout: home
 title: Online Psalter (Brenton)
 ---
 
-## Version: Brenton (1851)
+## Version: Brenton Septuagint (1851)
 → [Switch to LXX2012](/lxx2012/)  
 → [Switch to KJV](/kjv/)
 
