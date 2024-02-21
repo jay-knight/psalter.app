@@ -3,6 +3,7 @@
 
 $dark-color:  #10100e;
 $light-color: #ffffe9;
+$red: #f23939;
 body {
 
     // light theme
@@ -75,6 +76,7 @@ body {
         .stasis-header,
         .psalm-title {
             text-align: center;
+            color: $red;
         }
         .psalm-text {
             font-size: 1.2em;
@@ -82,6 +84,7 @@ body {
             .psalm-inscription {
                 font-style: italic;
                 text-align: center;
+                color: $red;
                 .verse-number {
                     display: none;
                 }
@@ -90,7 +93,7 @@ body {
                 margin-bottom: .5em;
             }
             .verse-number {
-                color: #fd5656;
+                color: $red;
             }
         }
 
