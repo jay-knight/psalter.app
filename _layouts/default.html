@@ -9,20 +9,26 @@
     <link rel="stylesheet" href="/assets/main.css">
   </head>
   <body>
-      <div id="site-header">
-          <h1><a href="/">psalter.app</a></h1>
-      </div>
-      <section id="page-content">
-          {{content}}
-      </section>
-      <section id="site-footer">
-          <nav>
-              <ul>
-                  <li><a href="/about">About</a></li>
-                  <li><a href="https://www.github.com/jay-knight/psalter.app">GitHub</a></li>
-              </ul>
-          </nav>
-      </section>
+   <div id="site-header">
+     <h1>
+       {% if page.version == 'lxx2012' or page.version == 'kjv' %}
+       <a href="/{{ page.version }}">psalter.app</a>
+       {% else %}
+       <a href="/">psalter.app</a>
+       {% endif %}
 
+     </h1>
+   </div>
+   <section id="page-content">
+     {{content}}
+   </section>
+   <section id="site-footer">
+     <nav>
+       <ul>
+         <li><a href="/about">About</a></li>
+         <li><a href="https://www.github.com/jay-knight/psalter.app">GitHub</a></li>
+       </ul>
+     </nav>
+   </section>
   </body>
 </html>
