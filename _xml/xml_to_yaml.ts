@@ -1,6 +1,6 @@
-import { parseArgs } from "https://deno.land/std@0.207.0/cli/parse_args.ts"
+import { parseArgs } from "@std/cli"
 import { JSDOM } from "jsdom";
-import { stringify } from "https://deno.land/std@0.215.0/yaml/stringify.ts"
+import { stringify } from "@std/yaml"
 
 const flags = parseArgs(Deno.args, {
   string: ["in", "out"],

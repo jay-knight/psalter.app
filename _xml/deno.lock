@@ -1,7 +1,24 @@
 {
   "version": "5",
   "specifiers": {
+    "jsr:@std/cli@^1.0.25": "1.0.25",
+    "jsr:@std/internal@^1.0.12": "1.0.12",
+    "jsr:@std/yaml@^1.0.10": "1.0.10",
     "npm:jsdom@^27.4.0": "27.4.0"
+  },
+  "jsr": {
+    "@std/cli@1.0.25": {
+      "integrity": "1f85051b370c97a7a9dfc6ba626e7ed57a91bea8c081597276d1e78d929d8c91",
+      "dependencies": [
+        "jsr:@std/internal"
+      ]
+    },
+    "@std/internal@1.0.12": {
+      "integrity": "972a634fd5bc34b242024402972cd5143eac68d8dffaca5eaa4dba30ce17b027"
+    },
+    "@std/yaml@1.0.10": {
+      "integrity": "245706ea3511cc50c8c6d00339c23ea2ffa27bd2c7ea5445338f8feff31fa58e"
+    }
   },
   "npm": {
     "@acemir/cssom@0.9.30": {
@@ -278,6 +295,8 @@
   },
   "workspace": {
     "dependencies": [
+      "jsr:@std/cli@^1.0.25",
+      "jsr:@std/yaml@^1.0.10",
       "npm:jsdom@^27.4.0"
     ]
   }
