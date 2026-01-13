@@ -4,8 +4,10 @@ title: Online Psalter (KJV)
 ---
 
 ## Version: KJV
-→ [Switch to Brenton (1851)](/)  
-→ [Switch to LXX2012](/lxx2012/)
+<ul id="versions">
+  <li><a href="/">Switch to Brenton (1851)</a></li>
+  <li><a href="/lxx2012/">Switch to LXX2012</a></li>
+</ul>
 
 ## The Psalms
 <ul id="psalms">

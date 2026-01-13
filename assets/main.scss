@@ -49,6 +49,13 @@ body {
     max-width: 100%;
     margin: 0 auto;
 
+    ul#versions {
+      list-style-type: "→";
+
+      li {
+        padding-left: 0.2em;
+      }
+    }
     ul#psalms, ul#kathisma {
       column-width: 10rem;
       column-count: auto;
