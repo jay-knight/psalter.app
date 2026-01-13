@@ -52,6 +52,8 @@ body {
     ul#psalms, ul#kathisma {
       column-width: 10rem;
       column-count: auto;
+      line-height: 1.6em;
+      list-style-type: none;
     }
 
     a {
