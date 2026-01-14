@@ -30,6 +30,7 @@ github_username: jay-knight
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-tidy
 
 # Exclude from processing.
 # The following items will not be processed, by default.
