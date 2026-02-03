@@ -1,25 +1,17 @@
+.PHONY: clean
+clean:
+	rm _xml/*.xml
+
 .PHONY: install
 install:
 	# rootless docker/podman recommended
 	docker run --rm -it -v $(PWD)/_xml:/app -w /app denoland/deno install
 
-_xml/eng-Brenton_usfx.xml:
-	rm -f eng-Brenton_usfx.zip
-	wget https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-	unzip -o -d _xml eng-Brenton_usfx.zip eng-Brenton_usfx.xml
-	rm -f eng-Brenton_usfx.zip
-
-_xml/eng-lxx2012_usfx.xml:
-	rm -f eng-lxx2012_usfx.zip
-	wget https://ebible.org/Scriptures/eng-lxx2012_usfx.zip
-	unzip -o -d _xml eng-lxx2012_usfx.zip eng-lxx2012_usfx.xml
-	rm eng-lxx2012_usfx.zip
-
-_xml/eng-kjv_usfx.xml:
-	rm -f eng-kjv_usfx.zip
-	wget https://ebible.org/Scriptures/eng-kjv_usfx.zip
-	unzip -o -d _xml eng-kjv_usfx.zip eng-kjv_usfx.xml
-	rm eng-kjv_usfx.zip
+_xml/%.xml:
+	rm -f $*.zip
+	wget https://ebible.org/Scriptures/$*.zip
+	unzip -o -d _xml $*.zip $*.xml
+	rm -f $*.zip
 
 DENO = docker run --rm -it -w /app -v $(PWD)/_xml:/app/_xml -v $(PWD)/_data:/app/_data denoland/deno
 _data/brenton.yaml: _xml/eng-Brenton_usfx.xml _xml/xml_to_yaml.ts
