@@ -1,7 +1,7 @@
 .PHONY: install
 install:
 	# rootless docker/podman recommended
-	docker run --rm -it -v $PWD/_xml:/app -w /app denoland/deno install
+	docker run --rm -it -v $(PWD)/_xml:/app -w /app denoland/deno install
 
 _xml/eng-Brenton_usfx.xml:
 	rm -f eng-Brenton_usfx.zip
