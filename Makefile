@@ -5,7 +5,7 @@ clean:
 .PHONY: install
 install:
 	# rootless docker/podman recommended
-	docker run --rm -it -v $(PWD)/_xml:/app -w /app denoland/deno install
+	docker run --rm -it -v $(PWD)/_xml:/app -w /app ghcr.io/denoland/deno install
 
 _xml/%.xml:
 	rm -f $*.zip
@@ -13,7 +13,7 @@ _xml/%.xml:
 	unzip -o -d _xml $*.zip $*.xml
 	rm -f $*.zip
 
-DENO = docker run --rm -it -w /app -v $(PWD)/_xml:/app/_xml -v $(PWD)/_data:/app/_data denoland/deno
+DENO = docker run --rm -it -w /app -v $(PWD)/_xml:/app/_xml -v $(PWD)/_data:/app/_data ghcr.io/denoland/deno
 _data/brenton.yaml: _xml/eng-Brenton_usfx.xml _xml/xml_to_yaml.ts
 	$(DENO) run --allow-read --allow-env --allow-write="_data" _xml/xml_to_yaml.ts \
 		--in _xml/eng-Brenton_usfx.xml \
