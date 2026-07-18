@@ -1,7 +1,7 @@
 {
   "imports": {
-    "@std/cli": "jsr:@std/cli@^1.0.25",
-    "@std/yaml": "jsr:@std/yaml@^1.0.10",
-    "jsdom": "npm:jsdom@^27.4.0"
+    "@std/cli": "jsr:@std/cli@^1.0.32",
+    "@std/yaml": "jsr:@std/yaml@^1.1.2",
+    "jsdom": "npm:jsdom@^29.1.1"
   }
 }
